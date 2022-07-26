@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: antiquewhite;
+    color: white
+}
+.navbar{
+    background-color: black;
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 40%;
+}
+.header img{
+    width: 4px;
+    height: 4px;
+}
+.header a{
+    list-style-type: none;
+}
